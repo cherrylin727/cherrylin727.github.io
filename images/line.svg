@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50mm"
+   height="50mm"
+   viewBox="0 0 50 50"
+   version="1.1"
+   id="svg10033"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="line.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10035"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.095625"
+     inkscape:cx="93.842116"
+     inkscape:cy="97.718554"
+     inkscape:window-width="1440"
+     inkscape:window-height="830"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs10030">
+    <linearGradient
+       id="linearGradient1047-1">
+      <stop
+         style="stop-color:#5f40cd;stop-opacity:1;"
+         offset="0"
+         id="stop1043" />
+      <stop
+         style="stop-color:#a42caa;stop-opacity:1;"
+         offset="0.35294119"
+         id="stop3057" />
+      <stop
+         style="stop-color:#e84b8a;stop-opacity:1;"
+         offset="0.80614972"
+         id="stop6785" />
+      <stop
+         style="stop-color:#f8ad44;stop-opacity:1;"
+         offset="1"
+         id="stop1045" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#06be00;fill-opacity:1;stroke:none;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round"
+       id="circle12475"
+       cx="35.302143"
+       cy="-1.9387404"
+       r="19.926922"
+       transform="rotate(48.14344)" />
+    <path
+       id="path13633"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round"
+       d="m 24.999808,14.126169 c -6.995325,10e-5 -12.666045,4.47768 -12.665895,10.00094 0.004,5.09419 4.85753,9.37178 11.270115,9.93324 -0.27539,1.16266 -0.60935,3.75564 0,3.90106 0.38112,0.41613 5.7464,-3.81697 8.9824,-5.82652 l 0.004,-0.002 c 3.1947,-1.88824 5.07553,-4.85482 5.07566,-8.00571 1.4e-4,-5.52342 -5.67089,-10.00107 -12.66641,-10.00094 z"
+       sodipodi:nodetypes="sccccccs" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.4238px;font-family:DFGothic-EB;-inkscape-font-specification:'DFGothic-EB, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1ab81f;fill-opacity:1;stroke:none;stroke-width:0.131047;stroke-linecap:round;stroke-linejoin:round"
+       x="17.739849"
+       y="25.098129"
+       id="text13946"
+       transform="scale(0.9283066,1.0772303)"><tspan
+         sodipodi:role="line"
+         id="tspan13944"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.4238px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1ab81f;fill-opacity:1;stroke:none;stroke-width:0.131047"
+         x="17.739849"
+         y="25.098129">LINE</tspan></text>
+  </g>
+</svg>
